@@ -110,5 +110,5 @@ Understanding the Unified Kill Chain is essential for:
 - Security architects (to implement layered defense).
 
 This write-up serves as evidence of practical knowledge and application of a critical cybersecurity framework.
-
+> ![Screenshot of THM Flag from Practice Analysis](image1.png)
 
